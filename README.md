@@ -1,4 +1,4 @@
-# Image classification with mobile app
+# Image Classification In Mobile App
 ## Demo
 1. emotion recognition: 
 
